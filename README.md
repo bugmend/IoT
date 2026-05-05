@@ -6,5 +6,8 @@
   - Exploring Internet of Things with Cisco Packet Tracer
   - A Framework for Sustainability in IT
   - Data-Driven Sustainability: Standing together for a low carbon future
+  - Networking Essentials
+  - Industrial Networking Essentials
 - JetBrains Academy: https://academy.jetbrains.com/
 - JetBrains Tools/IDEs: https://www.jetbrains.com/products/
+- AWS IoT: https://docs.aws.amazon.com/sdk-for-kotlin/latest/developer-guide/kotlin_iot_code_examples.html#get_started
